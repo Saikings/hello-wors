@@ -1,1 +1,2 @@
-# hello-wors
+# hello-world
+i am currently learning
